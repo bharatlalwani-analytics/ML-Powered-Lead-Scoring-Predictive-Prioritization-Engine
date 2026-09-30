@@ -1,4 +1,4 @@
-# AI-Powered Lead Scoring & Predictive Prioritization Engine
+# ML-Powered Lead Scoring & Predictive Prioritization Engine
 
 ## 💼 The Business Problem
 In high-volume B2B sales operations and digital education platforms, customer acquisition teams are routinely overwhelmed by thousands of inbound web leads daily. Because baseline conversion rates typically hover around 30%, sales representatives waste significant time calling unqualified, low-intent prospects. Without an automated prioritizing system, high-intent leads stay buried in spreadsheets and go cold. This project develops an end-to-end machine learning system that evaluates incoming user attributes to output a continuous target score, allowing businesses to rank and attack their database from the absolute hottest to coldest prospects.
